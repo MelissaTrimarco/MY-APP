@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02c506d1-aaa3-4b9c-b738-043be9af292a/deploy-status)](https://app.netlify.com/sites/mels-react-basics/deploys)
+
 # React Fundamentals
 
 #### React Course
